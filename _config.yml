@@ -15,17 +15,17 @@ website: www.github.com/lakshyapunia/
 darkmode: false
 
 # Social links
-github_username:  sproogen
+github_username:  lakshyapunia
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # flickr_username: jekyll
-linkedin_username: jameswgrant
+linkedin_username: lakshyapunia
 # xing_username: jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: 
   icon: fas fa-globe
   url: https://pbc.framer.website/
 # - title: another link
@@ -52,12 +52,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/lakshyapunia
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/lakshyapunia
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
