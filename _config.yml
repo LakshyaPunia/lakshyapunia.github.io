@@ -46,7 +46,8 @@ about_content: | # this will include new lines to allow paragraphs
   As well as I am trying to resume my career in business analytics, as I also have experience overseas in gathering insights, building analytics and I have worked at a number of companies gaining teamwork, leadership skills and developing/managing products.
 
   I am most skilled in: <mark>Exploratory Data Analysis</mark> <mark>Database Integrations and Migrations</mark>, <mark>Dashboard Development</mark>, <mark>Requirmenet Gathering</mark> and <mark>LLMs/Prompt Engineering</mark>.
-
+  
+  <b>Turning coffee into code and data into decisions—one byte at a time!</b>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
