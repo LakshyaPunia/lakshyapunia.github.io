@@ -9,7 +9,7 @@ version: 2
 name: Lakshya Punia
 title: Product Lead (Previously Business Analyst)
 email: lakshyakpunia@gmail.com
-website: www.github.com/lakshyapunia/
+website: https://www.github.com/lakshyapunia/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,7 +25,7 @@ linkedin_username: lakshya-punia
 
 # Additional icon links
 additional_links:
-- title: website
+- title: "website"
   icon: fas fa-globe
   url: https://pbc.framer.website/
 # - title: another link
