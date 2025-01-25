@@ -105,9 +105,8 @@ content:
     content:
       - layout: left
         title: University of Technology Sydney
-        caption1: July 2024 - July 2026 (Ongoing)
-        Caption2: 6.63/7 (High Distinction)
-        sub_title: Masters of Business Analytics 
+        caption: July 2024 - July 2026 (Ongoing)
+        sub_title: Masters of Business Analytics 6.63/7 (High Distinction)
         quote: >
           Education is not the learning of facts, but the training of the mind to think - Ablert Einstein.
         description: >
