@@ -1,157 +1,153 @@
-# Site
+---
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Lakshya Punia
 title: Product Lead (Previously Business Analyst)
 email: lakshyakpunia@gmail.com
 website: https://www.github.com/lakshyapunia/
-
-# Dark Mode (true/false/never)
 darkmode: false
-
-# Social links
-github_username:  lakshyapunia
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# flickr_username: jekyll
+github_username: lakshyapunia
 linkedin_username: lakshya-punia
-# xing_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
 additional_links:
-- title: "website"
-  icon: fas fa-globe
-  url: https://pbc.framer.website/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
+  - title: website
+    icon: fas fa-globe
+    url: https://pbc.framer.website/
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Highly skilled IT professional with 5+ years of experience, delivering data-driven insights and developing innovative tools like interactive dashboards and AI-based chatbots to enhance decision-making and optimize processes in commercial environments.
+about_content: >
+  Highly skilled IT professional with 5+ years of experience,
+  delivering data-driven insights and developing innovative tools like
+  interactive dashboards and AI-based chatbots to enhance decision-making and
+  optimize processes in commercial environments.
+
   Proficient in data visualization tools (Power BI, Tableau) and data analysis using SQL and Python, with a proven track record of creating impactful reports and dashboards that empower cross-functional teams and leadership decision-making.
+
   Extensive experience in optimizing customer data management and process efficiency, including CRM system enhancements, data migrations, and implementing analytics-driven solutions for business growth.
+
   Driven by a passion for solving complex challenges through analytics, I am eager to contribute to a fast-paced and innovative environment where I can work closely with senior leaders to drive data-driven decision-making and business success.
+
   <b>Turning coffee into code and data into decisions—one byte at a time!</b>
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Business Analytic Automation using ML
         link: github.com/LakshyaPunia/InsightEdge
-        # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/lakshyapunia
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I am currently developing a scalable system for real-time business metric tracking, trend forecasting, and risk detection, leveraging machine learning and business analytics.
-        description: | # this will include new lines to allow paragraphs
-          Data Pipeline Design and Implementation: I design and implement efficient data pipelines using Apache Airflow and AWS S3, facilitating seamless data collection, preprocessing, and storage.
-          Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
-          Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
+          I am currently developing a scalable system for real-time business metric
+          tracking, trend forecasting, and risk detection, leveraging machine
+          learning and business analytics.
+        description: >
+          Data Pipeline Design and Implementation: I design and implement
+          efficient data pipelines using Apache Airflow and AWS S3, facilitating
+          seamless data collection, preprocessing, and storage.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+          Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
+
+          Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Cetas HealthCare
         link: https://www.cetas-healthcare.com/
-        # link_text: cetas-healthcare.com
         sub_title: Product Lead (Previously Business Analyst)
         caption: Janauary 2023 - June 2024
         quote: >
-          Developed analytics-driven solutions in a healthcare consulting firm, working with a team of 10 to optimize operations and data accuracy.
-        description: | # this will include new lines to allow paragraphs
-            Automated data extraction using Python libraries (BeautifulSoup, Pandas) to reduce KOL recruitment costs by 65% and improve database quality by ~80%.
-            Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
-            Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
+          Developed analytics-driven solutions in a healthcare consulting firm,
+          working with a team of 10 to optimize operations and data accuracy.
+        description: >
+          Automated data extraction using Python libraries (BeautifulSoup,
+          Pandas) to reduce KOL recruitment costs by 65% and improve database
+          quality by ~80%.
 
-- title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+          Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
+
+          Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Think and Learn Pvt Ltd
         link: https://byjus.com/au/
-        # link_text: cetas-healthcare.com
         sub_title: Team Leader
         caption: April 2022 - Oct 2022
         quote: >
           Led a 5-member team in database management for a leading EdTech company.
-        description: | # this will include new lines to allow paragraphs
-            Conducted EDA to reduce quality oversights by 65% through process optimization.
-            Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
-            Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
+        description: >
+          Conducted EDA to reduce quality oversights by 65% through process
+          optimization.
 
-- title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+          Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
+
+          Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: TerraPay
         link: https://www.terrapay.com/
-        # link_text: TerraPay.com
         sub_title: Team Leader
         caption: April 2022 - Oct 2022
         quote: >
-          Managed key accounts and cross-border transactions for TerraPay, a global payments company, working with partners in the US, UK, and UAE.
-        description: | # this will include new lines to allow paragraphs
-            - Managed foreign exchange deals worth over $500,000+, implementing API validation checks to reduce transaction reversals by 30%.
-            - Designed a liquidity forecasting model that reduced outages by 30%.
-            - Supported partner onboarding and suggested automation features to streamline workflows.
+          Managed key accounts and cross-border transactions for TerraPay, a global
+          payments company, working with partners in the US, UK, and UAE.
+        description: >
+          - Managed foreign exchange deals worth over $500,000+, implementing
+          API validation checks to reduce transaction reversals by 30%.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+          - Designed a liquidity forecasting model that reduced outages by 30%.
+
+          - Supported partner onboarding and suggested automation features to streamline workflows.
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: University of Technology Sydney
         caption: 2024 - 2026
         sub_title: Masters of Business Analytics
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          After accumulating five years of professional experience, I have chosen to return to academia to deepen my expertise in analytics and business. Currently, I am pursuing a Master of Business Analytics at the University of Technology Sydney (UTS), where I am enhancing my skills in teamwork and meeting tight deadlines. I am thoroughly enjoying my university experience and am learning a great deal about maintaining a healthy work-life balance.
-          In addition to my academic pursuits, I actively participate in several societies, including Beta Alpha Psi, UTS Tech Society, UTS Startups, UTS Run Club, and UTS Taekwondo Club. These engagements provide me with opportunities to develop leadership skills and foster a sense of community.
+          Established in 1636, Harvard is the oldest higher education institution
+          in the United States, and is widely regarded in terms of its
+          influence, reputation, and academic pedigree as a leading university
+          in not just the US but also the world.
+        description: >
+          After accumulating five years of professional experience, I have
+          chosen to return to academia to deepen my expertise in analytics and
+          business. Currently, I am pursuing a Master of Business Analytics at
+          the University of Technology Sydney (UTS), where I am enhancing my
+          skills in teamwork and meeting tight deadlines. I am thoroughly
+          enjoying my university experience and am learning a great deal about
+          maintaining a healthy work-life balance.
 
+          In addition to my academic pursuits, I actively participate in several societies, including Beta Alpha Psi, UTS Tech Society, UTS Startups, UTS Run Club, and UTS Taekwondo Club. These engagements provide me with opportunities to develop leadership skills and foster a sense of community.
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data and business some of my other interests and hobbies are:
+    content: >
+      Alongside my interests in data and business some of my other interests
+      and hobbies are:
+
       - Range Shooting
+
       - Gaming
+
       - Photography
+
       - [Becoming a ninja] 🥷
 
+
       Look at this cool image  
+
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
