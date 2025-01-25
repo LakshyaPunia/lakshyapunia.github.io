@@ -42,10 +42,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Highly skilled IT professional with 5+ years of experience, delivering data-driven insights and developing innovative tools like interactive dashboards and AI-based chatbots to enhance decision-making and optimize processes in commercial environments.
-Proficient in data visualization tools (Power BI, Tableau) and data analysis using SQL and Python, with a proven track record of creating impactful reports and dashboards that empower cross-functional teams and leadership decision-making.
-Extensive experience in optimizing customer data management and process efficiency, including CRM system enhancements, data migrations, and implementing analytics-driven solutions for business growth.
-Driven by a passion for solving complex challenges through analytics, I am eager to contribute to a fast-paced and innovative environment where I can work closely with senior leaders to drive data-driven decision-making and business success.
+  - Highly skilled IT professional with 5+ years of experience, delivering data-driven insights and developing innovative tools like interactive dashboards and AI-based chatbots to enhance decision-making and optimize processes in commercial environments.
+  - Proficient in data visualization tools (Power BI, Tableau) and data analysis using SQL and Python, with a proven track record of creating impactful reports and dashboards that empower cross-functional teams and leadership decision-making.
+  - Extensive experience in optimizing customer data management and process efficiency, including CRM system enhancements, data migrations, and implementing analytics-driven solutions for business growth.
+  - Driven by a passion for solving complex challenges through analytics, I am eager to contribute to a fast-paced and innovative environment where I can work closely with senior leaders to drive data-driven decision-making and business success.
 
  <b>Turning coffee into code and data into decisions—one byte at a time!</b>
 content:
