@@ -33,6 +33,7 @@ content:
     content:
       - layout: top-middle
         title: Business Analytic Automation using ML
+        caption: Oct 2024 - Ongoing
         link: github.com/LakshyaPunia/InsightEdge
         additional_links:
           - title: sproogen/modern-resume-theme
