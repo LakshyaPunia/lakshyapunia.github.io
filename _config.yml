@@ -59,7 +59,9 @@ content:
         description: >
           - Automated data extraction using Python libraries (BeautifulSoup, Pandas) to reduce KOL recruitment costs by 65% and improve database
           quality by ~80%.
+          
           - Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
+          
           - Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
   
   - title: Professional Experience
@@ -135,9 +137,9 @@ content:
       - [Becoming a ninja] 🥷
 
 
-      Look at this cool image  
+      Look at this cool   
 
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/modern-resume-theme/s/landscape-trees.jpg "Trees")
 footer_show_references: true
 remote_theme: sproogen/resume-theme
 sass:
