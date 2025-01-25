@@ -39,18 +39,13 @@ content:
             icon: fab fa-github
             url: github.com/lakshyapunia
         quote: >
-          I am currently developing a scalable system for real-time business metric
-          tracking, trend forecasting, and risk detection, leveraging machine
-          learning and business analytics.
+          I am currently developing a scalable system for real-time business metric tracking, trend forecasting, and risk detection, leveraging machine learning and business analytics.
         description: >
-          Data Pipeline Design and Implementation: I design and implement
-          efficient data pipelines using Apache Airflow and AWS S3, facilitating
-          seamless data collection, preprocessing, and storage.
-
-          Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
-
-          Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
-  - title: Experience
+          - Data Pipeline Design and Implementation: I design and implement efficient data pipelines using Apache Airflow and AWS S3, facilitating seamless data collection, preprocessing, and storage.
+          - Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
+          - Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
+ 
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
@@ -62,14 +57,12 @@ content:
           Developed analytics-driven solutions in a healthcare consulting firm,
           working with a team of 10 to optimize operations and data accuracy.
         description: >
-          Automated data extraction using Python libraries (BeautifulSoup,
-          Pandas) to reduce KOL recruitment costs by 65% and improve database
+          - Automated data extraction using Python libraries (BeautifulSoup, Pandas) to reduce KOL recruitment costs by 65% and improve database
           quality by ~80%.
-
-          Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
-
-          Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
-  - title: Experience
+          - Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
+          - Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
+  
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
@@ -80,13 +73,14 @@ content:
         quote: >
           Led a 5-member team in database management for a leading EdTech company.
         description: >
-          Conducted EDA to reduce quality oversights by 65% through process
+          - Conducted EDA to reduce quality oversights by 65% through process
           optimization.
 
-          Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
+          - Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
 
-          Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
-  - title: Experience
+          - Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
+
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
