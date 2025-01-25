@@ -42,7 +42,9 @@ content:
           I am currently developing a scalable system for real-time business metric tracking, trend forecasting, and risk detection, leveraging machine learning and business analytics.
         description: >
           - Data Pipeline Design and Implementation: I design and implement efficient data pipelines using Apache Airflow and AWS S3, facilitating seamless data collection, preprocessing, and storage.
+          
           - Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
+          
           - Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
  
   - title: Professional Experience
