@@ -42,18 +42,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - Highly skilled IT professional with 5+ years of experience, delivering data-driven insights and developing innovative tools like interactive dashboards and AI-based chatbots to enhance decision-making and optimize processes in commercial environments.
-  - Proficient in data visualization tools (Power BI, Tableau) and data analysis using SQL and Python, with a proven track record of creating impactful reports and dashboards that empower cross-functional teams and leadership decision-making.
-  - Extensive experience in optimizing customer data management and process efficiency, including CRM system enhancements, data migrations, and implementing analytics-driven solutions for business growth.
-  - Driven by a passion for solving complex challenges through analytics, I am eager to contribute to a fast-paced and innovative environment where I can work closely with senior leaders to drive data-driven decision-making and business success.
-  - <b>Turning coffee into code and data into decisions—one byte at a time!</b>
+  Highly skilled IT professional with 5+ years of experience, delivering data-driven insights and developing innovative tools like interactive dashboards and AI-based chatbots to enhance decision-making and optimize processes in commercial environments.
+  Proficient in data visualization tools (Power BI, Tableau) and data analysis using SQL and Python, with a proven track record of creating impactful reports and dashboards that empower cross-functional teams and leadership decision-making.
+  Extensive experience in optimizing customer data management and process efficiency, including CRM system enhancements, data migrations, and implementing analytics-driven solutions for business growth.
+  Driven by a passion for solving complex challenges through analytics, I am eager to contribute to a fast-paced and innovative environment where I can work closely with senior leaders to drive data-driven decision-making and business success.
+  <b>Turning coffee into code and data into decisions—one byte at a time!</b>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Business Analytic Automation using ML
-        link: https://github.com/LakshyaPunia/InsightEdge
+        link: github.com/LakshyaPunia/InsightEdge
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -65,9 +65,9 @@ content:
         quote: >
           I am currently developing a scalable system for real-time business metric tracking, trend forecasting, and risk detection, leveraging machine learning and business analytics.
         description: | # this will include new lines to allow paragraphs
-          ● Data Pipeline Design and Implementation: I design and implement efficient data pipelines using Apache Airflow and AWS S3, facilitating seamless data collection, preprocessing, and storage.
-          ● Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
-          ● Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
+          Data Pipeline Design and Implementation: I design and implement efficient data pipelines using Apache Airflow and AWS S3, facilitating seamless data collection, preprocessing, and storage.
+          Machine Learning Model Development: I develop churn prediction and anomaly detection models utilizing TensorFlow and XGBoost, achieving over 90% precision and recall.
+          Interactive Dashboard Creation: I build interactive dashboards with Tableau to visualize key metrics, forecasts, and risk scores, enabling data-driven decision-making for stakeholders.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,9 +81,9 @@ content:
         quote: >
           Developed analytics-driven solutions in a healthcare consulting firm, working with a team of 10 to optimize operations and data accuracy.
         description: | # this will include new lines to allow paragraphs
-            ● Automated data extraction using Python libraries (BeautifulSoup, Pandas) to reduce KOL recruitment costs by 65% and improve database quality by ~80%.
-            ● Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
-            ● Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
+            Automated data extraction using Python libraries (BeautifulSoup, Pandas) to reduce KOL recruitment costs by 65% and improve database quality by ~80%.
+            Built and deployed interactive Power BI dashboards for real-time client and internal insights, streamlining decision-making processes.
+            Deployed an AI chatbot (Botpress) that dynamically learned user preferences, improving engagement rates and user satisfaction.
 
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,9 +97,9 @@ content:
         quote: >
           Led a 5-member team in database management for a leading EdTech company.
         description: | # this will include new lines to allow paragraphs
-            ● Conducted EDA to reduce quality oversights by 65% through process optimization.
-            ● Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
-            ● Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
+            Conducted EDA to reduce quality oversights by 65% through process optimization.
+            Designed a statistical efficiency matrix for sales teams, influencing premium lead distribution.
+            Automated reporting via Power BI dashboards, enhancing transparency and operational efficiency.
 
 - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,9 +113,9 @@ content:
         quote: >
           Managed key accounts and cross-border transactions for TerraPay, a global payments company, working with partners in the US, UK, and UAE.
         description: | # this will include new lines to allow paragraphs
-            ● Managed foreign exchange deals worth over $500,000+, implementing API validation checks to reduce transaction reversals by 30%.
-            ● Designed a liquidity forecasting model that reduced outages by 30%.
-            ● Supported partner onboarding and suggested automation features to streamline workflows.
+            - Managed foreign exchange deals worth over $500,000+, implementing API validation checks to reduce transaction reversals by 30%.
+            - Designed a liquidity forecasting model that reduced outages by 30%.
+            - Supported partner onboarding and suggested automation features to streamline workflows.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -140,7 +140,7 @@ content:
       - [Becoming a ninja] 🥷
 
       Look at this cool image  
-      ![Trees](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/msnbc/Components/Photos/z_Projects_in_progress/050418_Einstein/050405_einstein_tongue.jpg "Trees")
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
